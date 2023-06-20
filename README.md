@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haein-side
 
-![haein-side's GitHub stats](https://github-readme-stats.vercel.app/api?username=haein-side&show_icons=true&theme=great-gatsby)
+<!---![haein-side's GitHub stats](https://github-readme-stats.vercel.app/api?username=haein-side&show_icons=true&theme=great-gatsby) --->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haein-side&layout=compact&theme=great-gatsby&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
