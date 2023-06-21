@@ -1,8 +1,8 @@
 - 👋 안녕하세요, 개발자 haein-side 입니다!
 
-- tech blog
-- https://microhabitat.tistory.com/
-- 6월 1일부터 매일 TIL을 작성하고 있습니다
+- tech blog ✏️
+  - every day TIL since 2023.06.01 ~
+  - https://microhabitat.tistory.com/
 
 <!---![haein-side's GitHub stats](https://github-readme-stats.vercel.app/api?username=haein-side&show_icons=true&theme=great-gatsby) --->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haein-side&layout=compact&theme=great-gatsby&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
