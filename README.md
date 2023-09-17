@@ -2,7 +2,7 @@
 
 - tech blog ✏️
   - every day TIL since 2023.06.01 ~
-  - https://microhabitat.tistory.com/
+  - 기술블로그 : https://microhabitat.tistory.com/
 
 
 <!---![haein-side's GitHub stats](https://github-readme-stats.vercel.app/api?username=haein-side&show_icons=true&theme=great-gatsby) --->
