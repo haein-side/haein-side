@@ -1,7 +1,6 @@
 - 👋 안녕하세요, 개발자 haein-side 입니다!
 
 - tech blog ✏️
-  - every day TIL since 2023.06.01 ~
   - 기술블로그 : https://microhabitat.tistory.com/
 
 
